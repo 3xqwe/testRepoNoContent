@@ -1,4 +1,3 @@
-#hi
-API_KEY = "dummy_api_key_123456"
-DB_PASSWORD = "dummy_password"
-AWS_SECRET = "dummy_aws_secret_abc123"
+API_KEY = "1234567890abcdef"
+DB_PASSWORD = "password123"
+AWS_SECRET_KEY = "AKIAIOSFODNN7EXAMPLE"
